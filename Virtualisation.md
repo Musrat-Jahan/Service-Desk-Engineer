@@ -8,8 +8,11 @@ Each VM behaves like a real computer with:
 - Disk
 - Network
 
-But everything is **software-defined**.
 ---
+![image](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Hyper%20V%20PC%20Virtualization.png)
+
+
+![image](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Hyper%20v.png)
 
 ## Why companies use virtualisation
 
