@@ -9,7 +9,10 @@ A **ticketing system** is a central platform used to:
 - Meet SLAs and compliance requirements
 
 ---
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/new%20customer%20create.png)
 
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/ticket%20create.png)
 ## Why companies use ticketing systems
 
 Ticketing systems provide:
