@@ -17,7 +17,178 @@ A **ticketing system** is a central platform used to:
 ***Ticket Status**
 Open → In Progress → (Escalated / Scheduled / Onsite Job / Waiting for Vendor / Contact User) → Resolved → Closed
 
+icket status shows the current stage of a ticket in its lifecycle. Using the correct status helps with tracking, reporting, and communication.
+
+Open
+
+Meaning:
+Ticket has been created and acknowledged but work has not started yet.
+
+Used when:
+
+New ticket logged
+
+Awaiting assignment or triage
+
+In Progress
+
+Meaning:
+Work has started and the issue is actively being investigated or fixed.
+
+Used when:
+
+Engineer is troubleshooting
+
+Changes or fixes are being applied
+
+Escalated
+
+Meaning:
+Ticket has been passed to a higher support level or specialist team.
+
+Used when:
+
+Issue cannot be resolved at current level
+
+Requires System Admin, Network & Security, or vendor support
+
+Scheduled
+
+Meaning:
+Work is planned for a future date or maintenance window.
+
+Used when:
+
+Onsite visit booked
+
+Upgrade or installation planned
+
+Change requires approval or downtime window
+
+Onsite Job
+
+Meaning:
+Engineer is physically attending the client or site.
+
+Used when:
+
+Hardware replacement
+
+Network cabling or device setup
+
+Issue cannot be resolved remotely
+
+Waiting for Vendor
+
+Meaning:
+Resolution depends on a third-party vendor or supplier.
+
+Used when:
+
+Hardware under warranty
+
+Software vendor investigation
+
+ISP or cloud provider issue
+
+Contact User / Client
+
+Meaning:
+Waiting for response, confirmation, or action from the user or client.
+
+Used when:
+
+Need more information
+
+User testing required
+
+Approval or confirmation pending
+
+Resolved
+
+Meaning:
+Issue has been fixed and service is restored.
+
+Used when:
+
+Solution applied
+
+Awaiting user confirmation before closure
+
+Closed
+
+Meaning:
+Ticket is fully completed and formally closed.
+
+Used when:
+
+User confirms resolution
+
+No response after agreed follow-up period
+
+Ticket completed and documented
+
+
+---
+Ticket Groups / Departments
+
+Ticket groups define who owns the ticket and who is responsible for resolution. Correct grouping ensures faster handling, proper escalation, and clear accountability.
+1️⃣ Helpdesk
+
+Role: First point of contact (Level 1 support)
+
+Responsibilities:
+
+Log and categorise tickets
+
+Initial troubleshooting and quick fixes
+
+User communication and updates
+
+Password resets and basic access issues
+
+Escalate when required
+
+Typical Tickets:
+
+Basic software issues
+
+Login or password problems
+
+Printer and peripheral issues
+
+How-to and general requests
+
+Escalation:
+→ System Admin / Network & Security / ICT Dept
+
+2️⃣ ICT Department
+
+Role: Overall IT operations and coordination
+
+Responsibilities:
+
+Own IT service delivery
+
+Coordinate between technical teams
+
+Handle cross-system issues
+
+Approve upgrades, changes, and major requests
+
+Vendor coordination and asset management
+
+Typical Tickets:
+
 Major incidents affecting multiple teams
+
+IT service requests and approvals
+
+Hardware procurement and lifecycle management
+
+Organisation-wide upgrades or rollouts
+
+3️⃣ System AdministratorMajor incidents affecting multiple teams
 
 IT service requests and approvals
 
