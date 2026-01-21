@@ -9,8 +9,14 @@ A **ticketing system** is a central platform used to:
 - Meet SLAs and compliance requirements
 
 ---
+First : Create a nes Customer:
 ![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/new%20customer%20create.png)
 
+Customer Details:
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Customer%20created.png)
+
+Create a ticket:
 
 ![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/ticket%20create.png)
 
