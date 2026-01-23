@@ -1,15 +1,13 @@
 # Active Directory (AD)
 
-
-## What Active Directory is
-
 **Active Directory (AD)** is Microsoft’s directory service used to centrally manage:
 - **Identities** (users, admins, service accounts)
 - **Devices** (computers, servers)
 - **Security** (groups, permissions)
 - **Policies** (password rules, restrictions via Group Policy)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Login%20In%20Desktop.png)
 
-##  Key AD concepts 
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Remote_Desktop%20Login.png)
 
 ### Objects
 - **User**: a person or service identity
@@ -17,18 +15,126 @@
 - **Computer**: domain-joined workstation/server identity
 - **OU (Organizational Unit)**: container used to organize + apply policies
 
-### Groups (how permissions should be done)
+### User:
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20create.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Password%20Set.png)
+
+[images](http://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Details.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Details_Account.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Address%20details.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Details%20Member%20of%20group.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Job%20details.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Logon%20hours%20Details.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Ad_User%20Logon%20Workstation%20details.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20add%20Manager.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Properties.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Reset%20Password.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_FindSearch%20%20User1.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_%20Find%20User2.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_FindSearch%20%20User3.png)
+
+### Groups 
 - Assign permissions to **groups**
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Group%20creation1.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Group%20creation2.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Group%20details.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Rename%20group.png)
+
 - Put users into groups
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Add%20user%20in%20group.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Add%20user%20in%20group2.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Group%20details.png)
+
+- [images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Remove%20user%20frome%20Group.png)
+- 
+- [images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20Details%20Member%20of%20group.png)
 - Avoid giving permissions to users directly
   
-- **Role-based**: `Finance-Users`, `HR-Users`
-- **Access-based**: `FileShare-Marketing-RW`
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Distribution%20list_%20group%20create.png)
+
 
 ### Organizational Unit(OU) structure 
 OUs are used to:
 - Organize objects
 - Target Group Policies cleanly
+- [images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_OU%20create1.png)
+- [images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_OU%20create2.png)
+- [images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_OU%20option.png)
+
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20create%20in%20OU.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20move%20fromOU1.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_User%20move%20fromOU2.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Create%20OU%20in%20OU1.png)
+
+## Group Policy (GPO) basics
+
+Group Policy is a system for enforcing settings for:
+- Computers (machine settings)
+- Users (user environment settings)
+
+Examples:
+- Drive mappings
+- Password rules
+- Windows Update settings
+- Security restrictions
+- Browser/desktop controls
+
+- [images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/GPM%20console%20open.png)
+- 
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPM.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPM%20details.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPM_Domains.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO_DDP%20edit.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO_DDP%20details.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPM_Password%20Policy%201.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPM_Password%20Policy%202.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPM_Password%20Policy%203.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPM_Password%20Policy%204.png)
+
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Account%20Policy1.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Ad_Account%20lockout%20policy1.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Account%20lockout%20Policy2.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Account%20lockout%20policy3.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Command%20Prompt%20open.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/CMD%20Group%20policy%20update.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20Create.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20Details.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20select.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20in%20Group.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20Linked.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20Edit.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20link%20enforced.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPO%20.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_GPME_Administrative%20Policy.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Administrative%20Policy%20_CMD1.png)
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_Administrative%20Policy%20CMD2.png)
+
 
 ## Why we need Active Directory
 
@@ -46,12 +152,18 @@ Without AD, every computer and app becomes a separate island:
 - Harder onboarding/offboarding
 
 ---
+block 
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/CMD%20Block%20Notification.png)
+
 
 ##  How Active Directory works 
 
 ### The “Domain” concept
 A Domain is the boundary where identities and policies are managed.
 Example: `company.local` or `company.com`
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Remote_Desktop%20Login.png)
+
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/CMD_PC%20name.png
 
 ###  Domain Controllers (DCs)
 A Domain Controller stores the AD database and handles:
@@ -63,13 +175,16 @@ If DCs are down or broken:
 - Logins fail
 - Access to resources fails
 - Many business services stop working
-
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Login%20In%20Desktop.png
 ### AD database
 Stored on DCs (NTDS). It contains objects like:
 - Users
+[images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/Add%20user.png
 - Groups
+- 
 - Computers
 - OUs
+- https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Active%20Directory/AD_OU%20create1.png
 - Policies and links
 
 ### Replication
