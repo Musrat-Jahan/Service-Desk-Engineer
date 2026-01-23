@@ -8,7 +8,84 @@
 - Security and compliance tools
 
 ---
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365Homepage.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365Biiling.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Users.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20User%20Details.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Manage%20Contact%20INfo.png)
 
+![images]( https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20User%20reset%20password.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20User%20Mail%20Automatice%20reply.png )
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20User%20Mail%20Automatice%20reply%20manage.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20User%20Mail%20Automatice%20reply%20saved.png )
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20User%20License.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20manage%20admin%20roles.png)
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Another%20Mailbox.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Shared%20Mailbox.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20Shared%20Mailbox.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20%20Add%20Shared%20Mailbox.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Shared%20Mailbox.png)
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Block%20User.png )
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Delete%20User.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Restore%20User.png)
+
+Entra ID
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Entra%20ID%20Add%20User.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Entra%20ID%20User.png)
+
+Distribution list:
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Distribution%20List.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Distribution%20List%20Group.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Add%20Owner%20Distribution%20List.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Add%20Distribution%20List.png)
+
+
+add user 
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Add%20User.png)
+teM
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20Add%20Team.png)
+
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft365%20%20User%20Multifactor%20Authentication.png)
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%202.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%203.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%204.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%205.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%206.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%207.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%208.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Folder%201.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Shared%20Mailbox.png)
+![IMAGES](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20Shared%20Mailbox.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20Add%20new%20mail.png)
+
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20App%20Share%20Calender%203.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20App%20Share%20Calenderpng.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Add%20Signature.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Control%20Panel%20Outlook%201.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Control%20Panel%20Outlook%202.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Control%20Panel%20Outlook%203.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Control%20Panel%20Outlook%204.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Control%20Panel%20Outlook%205.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Control%20Panel%20Outlook%206.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Control%20Panel%20Outlook%207.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Share%20Calender.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Share%20Calender1.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20%20Share%20Calender2.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20Automatice%20reply.png)
+![images](https://github.com/Musrat-Jahan/Service-Desk-Engineer/blob/main/Images/Microsoft365/Microsoft%20Outlook%20Signature.png)
+
+******
+
+***
 ## Why companies use Microsoft 365
 
 Companies move to Microsoft 365 because it provides:
