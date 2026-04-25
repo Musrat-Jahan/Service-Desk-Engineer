@@ -1,0 +1,116 @@
+🔹 1. Active Directory (AD)
+Where is Active Directory database located?
+What is Active Directory?
+What is a Domain?
+What is a Tree?
+What are the components of AD?
+Define SYSVOL
+What is Kerberos?
+What is Tombstone lifetime?
+What is a Child Domain Controller (DC)?
+What is RID Master?
+Tell me about FSMO roles
+How to check which server holds FSMO roles
+🔹 2. Networking Fundamentals
+What is a network?
+What are the different types of networks?
+What is an IP address?
+What is a subnet mask?
+What is a default gateway?
+What is DNS?
+What is DHCP?
+What is a firewall?
+What is a VPN?
+What are the types of VPN?
+What are the advantages of VPN?
+What is NAT?
+What is port forwarding?
+What is a MAC address?
+What is ARP protocol?
+What is VLAN?
+What is OSI model?
+Difference between TCP and UDP
+Difference between IPv4 and IPv6
+Difference between switch and router
+What is a packet sniffer?
+What is a DMZ?
+What is QoS?
+Difference between unicast, multicast, broadcast
+What is a broadcast domain?
+What is a collision domain?
+What is ping command?
+What is proxy server?
+🔹 3. Windows 10 / Windows 11 (Desktop Support)
+Main difference between Windows 10 and Windows 11
+How to open Task Manager
+How to unhide hidden files
+Built-in antivirus in Windows 11
+Tool to repair system files (SFC)
+How to access Safe Mode
+What does “Reset this PC” do
+Manage startup apps
+Snap Layouts purpose
+How to check version & build
+What is BitLocker
+What is Device Manager
+How to map a network drive
+How to flush DNS cache
+🔹 4. Server / Troubleshooting Scenarios
+Memory upgrade not detected – cause?
+Server crashes with BSOD – what to check?
+Users cannot access shared drive – cause?
+Printer not printing – first troubleshooting step?
+New file server – what must be done first?
+Default gateway configuration – what to use?
+Lab with 45 computers – best IP management server?
+🔹 5. Azure / Office 365 / Cloud
+Can users become admins?
+Difference between E1 and E3 licenses
+Can different plans be combined?
+Who can assign permissions?
+Office 365 admin roles and levels
+What are identity models in Azure AD?
+Difference: Admin Center vs Azure AD
+What is Compliance Center?
+How to check mailbox access (non-owner)?
+How to add shared mailbox?
+Can you send email from shared mailbox?
+Can you have multiple group owners?
+Office 365 Groups vs Distribution lists
+SharePoint vs Teams
+Supported platforms in Office 365
+Recycle Bin alternative access
+What happens to reported emails?
+Prevent remote wipe (policy question)
+🔹 6. Intune / Device Management
+When managing devices, what settings can you control?
+Remote wipe policies (security control question)
+🔹 7. Virtualization (Hyper-V)
+What is Hyper-V?
+What is a Virtual Machine (VM)?
+What are key features of Hyper-V?
+Difference: Hyper-V (Server vs Windows 10/11)
+Virtual Switch and its types
+Generation 1 vs Generation 2 VMs
+What are checkpoints (snapshots)?
+What is Dynamic Memory?
+What is Nested Virtualization?
+How to enable Hyper-V
+🔹 8. Backup & Recovery
+What is backup and why important?
+Difference between Incremental and Differential backup
+How often backups should be performed
+How to troubleshoot failed backup job
+🔹 9. File / Print Services
+What is a File Server?
+Advantages of File Server
+What is a Print Server?
+What are Print Drivers?
+How to troubleshoot printer issues
+🔹 10. Security / Ethical Hacking Basics
+What is Reconnaissance?
+What is Footprinting?
+🔹 11. Phone Handling / IT Support (Practical)
+How to talk to users reporting issues
+How to troubleshoot step-by-step (printer, network, etc.)
+Handling difficult users / communication skill
