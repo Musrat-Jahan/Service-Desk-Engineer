@@ -1,0 +1,183 @@
+1.What is a backup, and why is it important?
+Answer: A backup is a copy of data stored separately from the original source to protect against data loss.
+It is essential for recovering data after accidental deletion, hardware failure, cyberattacks, or natural disasters.
+
+\2.
+. What are the different types of backups?
+Answer
+Full Backup: A complete copy of all data.
+
+
+Incremental Backup: Only backs up changes since the last backup (full or incremental).
+
+
+Differential Backup: Backs up changes since the last full backup.
+
+
+Mirror Backup: Creates an exact copy of files without keeping older versions.
+
+
+Snapshot Backup: Captures the system state at a particular moment, mainly used in virtualization
+
+
+3.
+What is the difference between Incremental and Differential Backup?
+Incremental Backup: Only saves the data that changed since the last backup (whether full or incremental).
+It is smaller in size and faster but requires multiple backups for restoration.
+
+
+Differential Backup: Saves changes since the last full backup, meaning it grows in size over time but requires only two backups (full + latest differential) for restoration.
+4.
+How often should backups be performed?
+3.
+What is the difference between Incremental and Differential Backup?
+
+4.
+How often should backups be performed?
+Answer
+Backup frequency depends on business needs, data criticality, and compliance requirements.
+Common schedules include:
+
+Daily: Critical data that changes frequently.
+
+
+Weekly: Less critical data or systems with stable information.
+
+
+Real-time (Continuous Data Protection - CDP): Systems requiring high availability, like financial databases.
+
+5.
+What is the 3-2-1 Backup Rule?
+The 3-2-1 rule ensures data protection by keeping:
+
+3 copies of data (1 original + 2 backups).
+
+
+2 different storage types (e.
+g.
+, local drive and cloud).
+
+
+1 offsite copy (e.
+g.
+, cloud or remote data center).
+6.
+What are the common backup storage locations?
+Local Backup: External hard drives, NAS, or SAN.
+
+
+Network Backup: Stored on another server within the network.
+
+
+Cloud Backup: Services like iDrive, Azure Backup, or AWS S3.
+
+
+Tape Backup: Older but still used for long-term storage.
+7.
+What is the difference between on-premises and cloud backup?
+On-Premises Backup: Stored on local servers or devices, offering faster recovery but vulnerable to physical damage.
+
+
+Cloud Backup: Stored remotely, providing scalability and offsite protection but dependent on internet speed.
+8.
+What is a retention policy in backup solutions?
+A retention policy defines how long backup copies are kept before being deleted or overwritten.
+It ensures compliance with regulations and balances storage costs.
+Common policies include:
+
+Daily backups kept for 7 days
+
+Weekly backups kept for 1 month
+
+Monthly backups kept for 1 year
+9.
+How would you verify if a backup was successful?
+Verification can be done by:
+
+Checking logs in backup software.
+
+
+Performing a test restore of a file or system.
+
+
+Monitoring email or system alerts for backup failures.
+
+
+Checking storage space usage to confirm data is written.
+10.
+What is the difference between file-level and image-based backup?
+
+
+File-Level Backup: Backs up individual files and folders, useful for quick data recovery.
+
+
+Image-Based Backup: Backs up the entire system, including OS, applications, and settings, allowing full system recovery.
+
+11.
+What are the advantages and disadvantages of cloud backups?
+Advantages:
+
+Offsite storage protects against local disasters.
+
+
+Scalable storage with pay-as-you-go pricing.
+
+
+Automated backup scheduling.
+
+
+Disadvantages:
+
+Internet speed affects backup and restore times.
+
+
+Higher costs over time for large data volumes.
+
+
+Security risks if not encrypted properly.
+12.
+What is Volume Shadow Copy Service (VSS), and how does it work?
+VSS allows the creation of snapshots of files in use without stopping applications.
+It enables restoring previous versions of files and supports backup operations without downtime.
+13.
+How does iDrive backup work, and what are its key features?
+iDrive is a cloud backup solution offering:
+
+Continuous and scheduled backups.
+
+
+Incremental and full backups.
+
+
+File versioning and retention.
+
+
+Remote backup and restore capabilities.
+14.
+What are the security considerations when performing backups?
+Use encryption for data protection.
+
+
+Implement access controls to restrict unauthorized users.
+
+
+Store backups offsite to prevent physical damage.
+
+
+Regularly test restores to verify backup integrity.
+15.
+How would you troubleshoot a failed backup job?
+Answer
+Check backup logs for error messages.
+
+
+Ensure backup storage has enough space.
+
+
+Verify network connectivity for cloud/network backups.
+
+
+Restart the backup service and retry the job.
+
+
+Check if VSS is working properly in Windows.
